@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+__MACOSX/
+
+# Python
+__pycache__/
+*.pyc
+
+# Local measurement runs (do not publish)
+measurement_locked/runs/inputs/headlines.jsonl
+measurement_locked/runs/outputs/*.jsonl
+measurement_locked/runs/outputs/_legacy/*.jsonl
