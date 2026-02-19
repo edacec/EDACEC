@@ -1,0 +1,67 @@
+{
+  "model": "EDACEC",
+  "version": "1.08",
+  "component_logic": "HESM",
+  "total_max_score": 10,
+  "scoring_rules": {
+    "calculation": "score = min(component_max, count_of_matched_keywords)",
+    "final_score": "sum_of_components",
+    "exact_match_required": true
+  },
+  "dictionary": {
+    "structural": {
+      "max_score": 3,
+      "keywords": [
+        "war",
+        "attack",
+        "strike",
+        "annexation",
+        "shutdown",
+        "injunction",
+        "emergency",
+        "contempt",
+        "conflict",
+        "violence"
+      ]
+    },
+    "emotional": {
+      "max_score": 3,
+      "keywords": [
+        "slam",
+        "crisis",
+        "outrage",
+        "illegal",
+        "urgent",
+        "chaos",
+        "fear",
+        "condemn",
+        "surge"
+      ]
+    },
+    "irreversibility": {
+      "max_score": 2,
+      "keywords": [
+        "annexation",
+        "permanent",
+        "irreversible",
+        "final",
+        "constitutional",
+        "dismantle"
+      ]
+    },
+    "agenda": {
+      "max_score": 2,
+      "keywords": [
+        "election",
+        "probe",
+        "investigation",
+        "partisan",
+        "campaign",
+        "border",
+        "immigration",
+        "security",
+        "funding"
+      ]
+    }
+  }
+}
