@@ -1,0 +1,53 @@
+{
+  "generated_utc": "2026-02-21T08:18:08Z",
+  "feeds": [
+    {
+      "source": "Reuters",
+      "url": "https://feeds.reuters.com/reuters/topNews"
+    },
+    {
+      "source": "AP",
+      "url": "https://feeds.apnews.com/rss/apf-topnews"
+    },
+    {
+      "source": "NYT",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+    },
+    {
+      "source": "BBC",
+      "url": "http://feeds.bbci.co.uk/news/rss.xml"
+    }
+  ],
+  "headlines": [
+    {
+      "source": "BBC",
+      "published_utc": "2026-02-21T07:59:49Z",
+      "title": "Government considers removing Andrew from royal line of succession",
+      "url": "https://www.bbc.com/news/articles/c1kgv837wvdo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "NYT",
+      "published_utc": "2026-02-21T07:43:03Z",
+      "title": "Hungary Poses Unexpected Hurdle to Europe’s 90-Billion Euro Loan to Ukraine",
+      "url": "https://www.nytimes.com/2026/02/20/world/europe/euro-loan-ukraine-hungary-obstacle.html"
+    },
+    {
+      "source": "BBC",
+      "published_utc": "2026-02-21T07:42:33Z",
+      "title": "The Uber-driving English champion & his 30-year fight for a passport",
+      "url": "https://www.bbc.com/sport/boxing/articles/c15xv4972v4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "BBC",
+      "published_utc": "2026-02-21T07:12:03Z",
+      "title": "'That's me!': Hundreds tell BBC how medication triggered gambling and other addictions",
+      "url": "https://www.bbc.com/news/articles/ce948d9gxevo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "BBC",
+      "published_utc": "2026-02-21T07:04:14Z",
+      "title": "What's eating Arsenal? North London derby now a test of Gunners' 'bottle'",
+      "url": "https://www.bbc.com/sport/football/articles/cjwzqn3e193o?at_medium=RSS&at_campaign=rss"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "generated_utc": "2026-02-21T23:39:37Z",
+  "feeds": [
+    {
+      "source": "Reuters",
+      "url": "https://feeds.reuters.com/reuters/topNews"
+    },
+    {
+      "source": "AP",
+      "url": "https://feeds.apnews.com/rss/apf-topnews"
+    },
+    {
+      "source": "NYT",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+    },
+    {
+      "source": "BBC",
+      "url": "http://feeds.bbci.co.uk/news/rss.xml"
+    }
+  ],
+  "headlines": [
+    {
+      "source": "BBC",
+      "published_utc": "2026-02-22T08:55:00Z",
+      "title": "Match of the Day",
+      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "NYT",
+      "published_utc": "2026-02-21T22:31:54Z",
+      "title": "Nine Bodies of Skiers Recovered in Sierra Nevada Avalanche, Officials Say",
+      "url": "https://www.nytimes.com/2026/02/21/us/lake-tahoe-avalanche-victims-bodies-recovery.html"
+    },
+    {
+      "source": "NYT",
+      "published_utc": "2026-02-21T22:17:31Z",
+      "title": "Trump Says He Will Raise Global Tariff to 15 Percent",
+      "url": "https://www.nytimes.com/2026/02/21/business/trump-tariffs.html"
+    },
+    {
+      "source": "NYT",
+      "published_utc": "2026-02-21T22:17:08Z",
+      "title": "JPMorgan Admits to Debanking Trump After Jan. 6 Capitol Attacks",
+      "url": "https://www.nytimes.com/2026/02/21/business/jpmorgan-trump-debanking.html"
+    },
+    {
+      "source": "NYT",
+      "published_utc": "2026-02-21T22:15:17Z",
+      "title": "Willie Colón, a Luminary of Salsa Music, Dies at 75",
+      "url": "https://www.nytimes.com/2026/02/21/arts/music/willie-colon-dead.html"
+    }
+  ]
+}

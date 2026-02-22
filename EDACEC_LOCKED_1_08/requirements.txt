@@ -1,0 +1,5 @@
+streamlit>=1.30
+pandas>=2.0
+matplotlib>=3.7
+feedparser>=6.0.10
+python-dateutil>=2.9.0.post0
